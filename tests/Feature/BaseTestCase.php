@@ -1,9 +1,9 @@
 <?php
 
-namespace SolgenPower\{PackageName}\Test\Feature;
+namespace PrinceJohn\{PackageName}\Test\Feature;
 
 use Orchestra\Testbench\TestCase;
-use SolgenPower\{PackageName}\ServiceProvider;
+use PrinceJohn\{PackageName}\ServiceProvider;
 
 class BaseTestCase extends TestCase
 {

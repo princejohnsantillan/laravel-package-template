@@ -1,6 +1,6 @@
 <?php
 
-namespace SolgenPower\{PackageName}\Test\Feature;
+namespace PrinceJohn\{PackageName}\Test\Feature;
 
 class ExampleFeatureTest extends BaseTestCase
 {

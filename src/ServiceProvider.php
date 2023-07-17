@@ -1,6 +1,6 @@
 <?php
 
-namespace SolgenPower\{PackageName};
+namespace PrinceJohn\{PackageName};
 
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 

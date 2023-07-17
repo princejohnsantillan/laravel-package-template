@@ -1,5 +1,5 @@
 {
-    "name": "solgenpower/{package-name}",
+    "name": "princejohn/{package-name}",
     "description": "{package_description}",
     "license": "MIT",
     "keywords": [
@@ -13,12 +13,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "SolgenPower\\{PackageName}\\": "src/"
+            "PrinceJohn\\{PackageName}\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SolgenPower\\{PackageName}\\Test\\": "tests/"
+            "PrinceJohn\\{PackageName}\\Test\\": "tests/"
         }
     },
     "require": {
@@ -34,7 +34,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SolgenPower\\{PackageName}\\ServiceProvider"
+                "PrinceJohn\\{PackageName}\\ServiceProvider"
             ]
         }
     },
