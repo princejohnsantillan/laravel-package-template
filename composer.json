@@ -7,8 +7,8 @@
     ],
     "authors": [
         {
-            "name": "{author_name}",
-            "email": "{author_email}"
+            "name": "Prince John Santillan",
+            "email": "mail@princejohnsantillan.net"
         }
     ],
     "autoload": {
